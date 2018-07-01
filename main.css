@@ -1,0 +1,27 @@
+* {
+	font-family: sans-serif;
+	color: white;
+}
+
+.main-content {
+	background-color: #E9E6E6;
+	height: auto;
+	position: absolute;
+}
+
+.green-banner {
+	margin: 10px 10px 40px 10px;
+	background-color: #78F0B7;
+	border: 2px solid #178C55;	
+
+}
+
+.green-card-title{
+	font-size: 30px;
+	text-align: center;
+}
+
+.blue-content {
+	width: cover;
+	background-color: #24CCDA;
+}
